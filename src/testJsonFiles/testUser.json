@@ -1,0 +1,488 @@
+{
+  "firstName": "Tristan",
+  "lastName": "Sinclair",
+  "major": "Computer Science",
+  "track": "Artificial Intelligence",
+  "totalUnits": 153,
+  "degreeProgress": 89,
+  "transcript_json": {
+    "quarters": [
+      {
+        "quarter": "Summer",
+        "year": "2018-2019",
+        "courses": [
+          {
+            "subject": "BIO",
+            "number": "27S",
+            "type": "LEC",
+            "title": "EVOLUTION: FROM DNA TO DINOSAURS",
+            "units_attempted": "3.00",
+            "units_earned": "3.00",
+            "grade": "B+",
+            "lecturer": "Jeremy Hsu"
+          },
+          {
+            "subject": "PHYSICS",
+            "number": "16",
+            "type": "LEC",
+            "title": "THE ORIGIN AND DEVELOPMENT OF THE COSMOS",
+            "units_attempted": "3.00",
+            "units_earned": "3.00",
+            "grade": "B+",
+            "lecturer": "Mandeep Gill"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn",
+        "year": "2019-2020",
+        "courses": [
+          {
+            "subject": "ATHLETIC",
+            "number": "22",
+            "type": "ACT",
+            "title": "VARSITY - FOOTBALL",
+            "units_attempted": "2.00",
+            "units_earned": "2.00",
+            "grade": "S",
+            "lecturer": "Austin Lee; David Shaw"
+          },
+          {
+            "subject": "BIO",
+            "number": "82",
+            "type": "LEC",
+            "title": "GENETICS",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "B-",
+            "lecturer": "Allison Brown; Dominique Bergmann"
+          },
+          {
+            "subject": "CS",
+            "number": "1C",
+            "type": "PRC",
+            "title": "INTRODUCTION TO COMPUTING AT STANFORD",
+            "units_attempted": "1.00",
+            "units_earned": "1.00",
+            "grade": "S",
+            "lecturer": "Sherwin Smith"
+          },
+          {
+            "subject": "HUMBIO",
+            "number": "51",
+            "type": "SEM",
+            "title": "BIG DATA FOR BIOLOGISTS - DECODING GENOMIC FUNCTION",
+            "units_attempted": "3.00",
+            "units_earned": "3.00",
+            "grade": "A",
+            "lecturer": "Annette Salmeen; Anshul Kundaje"
+          },
+          {
+            "subject": "UAR",
+            "number": "56",
+            "type": "WKS",
+            "title": "BUILDING A SUCCESSFUL ACADEMIC CAREER",
+            "units_attempted": "2.00",
+            "units_earned": "2.00",
+            "grade": "S",
+            "lecturer": "Carina Thompson; Lauren Reid"
+          },
+          {
+            "subject": "UAR",
+            "number": "101M",
+            "type": "SEM",
+            "title": "FROSH S",
+            "units_attempted": "101",
+            "units_earned": "2",
+            "grade": "OKADA",
+            "lecturer": "2.00 2.00 Cheryl Brown; Courtney Pena"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter",
+        "year": "2019-2020",
+        "courses": [
+          {
+            "subject": "CS",
+            "number": "106A",
+            "type": "LEC",
+            "title": "PROGRAMMING METHODOLOGY",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A",
+            "lecturer": "Nick Parlante"
+          },
+          {
+            "subject": "ECON",
+            "number": "1",
+            "type": "LEC",
+            "title": "PRINCIPLES OF ECONOMICS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A-",
+            "lecturer": "Mark Duggan"
+          },
+          {
+            "subject": "FEMGEN",
+            "number": "21R",
+            "type": "PRA",
+            "title": "STORYCRAFT: ATHLETE RELATIONSHIPS",
+            "units_attempted": "2.00",
+            "units_earned": "2.00",
+            "grade": "A+",
+            "lecturer": "Brianna Booth"
+          },
+          {
+            "subject": "SPANLANG",
+            "number": "1",
+            "type": "LNG",
+            "title": "FIRST-YEAR SPANISH, FIRST QUARTER",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A",
+            "lecturer": "Monica VanBladel"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring",
+        "year": "2019-2020",
+        "courses": [
+          {
+            "subject": "CME",
+            "number": "193",
+            "type": "WKS",
+            "title": "INTRODUCTION TO SCIENTIFIC PYTHON",
+            "units_attempted": "1.00",
+            "units_earned": "1.00",
+            "grade": "S",
+            "lecturer": "Anjan Dwaraknath; Arun Jambulapati"
+          },
+          {
+            "subject": "CS",
+            "number": "106B",
+            "type": "LEC",
+            "title": "PROGRAMMING ABSTRACTIONS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "S",
+            "lecturer": "Christopher Gregg; Julie Zelenski"
+          },
+          {
+            "subject": "MATH",
+            "number": "51",
+            "type": "LEC",
+            "title": "LINEAR ALGEBRA, MULTIVARIABLE CALCULUS, AND\n MODERN APPLICATIONS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "S",
+            "lecturer": "Gene Kim"
+          },
+          {
+            "subject": "PWR",
+            "number": "1HK",
+            "type": "SEM",
+            "title": "WRITING & RHETORIC 1: FOOD VALUES: THE RHETORIC OF\n WHAT AND HOW WE EAT",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "S",
+            "lecturer": "Hayden Kantor"
+          },
+          {
+            "subject": "THINK",
+            "number": "65",
+            "type": "DIS",
+            "title": "PREVENTING HUMAN EXTINCTION",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "S",
+            "lecturer": "Jonathan Tang"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer",
+        "year": "2019-2020",
+        "courses": [
+          {
+            "subject": "CME",
+            "number": "103",
+            "type": "LEC",
+            "title": "INTRODUCTION TO MATRIX METHODS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A",
+            "lecturer": "Reza Nasiri Mahalati"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn",
+        "year": "2020-2021",
+        "courses": [
+          {
+            "subject": "ATHLETIC",
+            "number": "10",
+            "type": "ACT",
+            "title": "VARSITY SPORT EXPERIENCE",
+            "units_attempted": "2.00",
+            "units_earned": "2.00",
+            "grade": "S",
+            "lecturer": "Jeffrey Koseff"
+          },
+          {
+            "subject": "CS",
+            "number": "1U",
+            "type": "LAB",
+            "title": "PRACTICAL UNIX",
+            "units_attempted": "1.00",
+            "units_earned": "1.00",
+            "grade": "S",
+            "lecturer": "Julie Zelenski"
+          },
+          {
+            "subject": "CS",
+            "number": "107E",
+            "type": "LEC",
+            "title": "COMPUTER SYSTEMS FROM THE GROUND UP",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A",
+            "lecturer": "Christos Kozyrakis; Philip Levis"
+          },
+          {
+            "subject": "MS&E",
+            "number": "120",
+            "type": "LEC",
+            "title": "INTRODUCTION TO PROBABILITY",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "CR",
+            "lecturer": "Guillaume Basse"
+          },
+          {
+            "subject": "MS&E",
+            "number": "140",
+            "type": "LEC",
+            "title": "ACCOUNTING FOR MANAGERS AND ENTREPRENEURS",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "A",
+            "lecturer": "John Lord"
+          },
+          {
+            "subject": "MS&E",
+            "number": "145",
+            "type": "LEC",
+            "title": "INTRODUCTION TO FINANCE AND INVESTMENT",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "A",
+            "lecturer": "Gerd Infanger"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter",
+        "year": "2020-2021",
+        "courses": [
+          {
+            "subject": "CS",
+            "number": "103",
+            "type": "LEC",
+            "title": "MATHEMATICAL FOUNDATIONS OF COMPUTING",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A-",
+            "lecturer": "Cynthia Lee"
+          },
+          {
+            "subject": "MS&E",
+            "number": "125",
+            "type": "LEC",
+            "title": "INTRODUCTION TO APPLIED STATISTICS",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "B",
+            "lecturer": "Sharad Goel"
+          },
+          {
+            "subject": "MS&E",
+            "number": "180",
+            "type": "LEC",
+            "title": "ORGANIZATIONS: THEORY AND MANAGEMENT",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "B+",
+            "lecturer": "Rosanne Siino"
+          },
+          {
+            "subject": "SPANLANG",
+            "number": "2",
+            "type": "LNG",
+            "title": "FIRST-YEAR SPANISH, SECOND QUARTER",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "CR",
+            "lecturer": "Ana Vivancos"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring",
+        "year": "2020-2021",
+        "courses": [
+          {
+            "subject": "CS",
+            "number": "109",
+            "type": "LEC",
+            "title": "INTRODUCTION TO PROBABILITY FOR COMPUTER SCIENTISTS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "B-",
+            "lecturer": "Jerry Cain"
+          },
+          {
+            "subject": "MS&E",
+            "number": "121",
+            "type": "LEC",
+            "title": "INTRODUCTION TO STOCHASTIC MODELING",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "B+",
+            "lecturer": "Jose Blanchet Mancilla"
+          },
+          {
+            "subject": "PWR",
+            "number": "2SN",
+            "type": "SEM",
+            "title": "WRITING & RHETORIC 2: RHETORIC OF ACTIVISM",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "A",
+            "lecturer": "Shannon Hervey"
+          },
+          {
+            "subject": "SPANLANG",
+            "number": "3",
+            "type": "LNG",
+            "title": "FIRST-YEAR SPANISH, THIRD QUARTER",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "A",
+            "lecturer": "Tania Flores"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer",
+        "year": "2020-2021",
+        "courses": [
+          {
+            "subject": "CS",
+            "number": "110",
+            "type": "LEC",
+            "title": "PRINCIPLES OF COMPUTER SYSTEMS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "CR",
+            "lecturer": "Ryan Eberhardt"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn",
+        "year": "2021-2022",
+        "courses": [
+          {
+            "subject": "ATHLETIC",
+            "number": "10",
+            "type": "ACT",
+            "title": "VARSITY SPORT EXPERIENCE CS LEC COMPUTATIONAL LOGIC B+",
+            "units_attempted": "2.00",
+            "units_earned": "2.00",
+            "grade": "S",
+            "lecturer": "157 3.00 3.00 Michael Genesereth"
+          },
+          {
+            "subject": "CS",
+            "number": "161",
+            "type": "LEC",
+            "title": "DESIGN AND ANALYSIS OF",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "B",
+            "lecturer": "ALGORITHMSPrevious"
+          },
+          {
+            "subject": "CS",
+            "number": "238",
+            "type": "Rubinstein\n",
+            "title": "CS MAKING UNDER A-\n UNCERTAINTY",
+            "units_attempted": "238",
+            "units_earned": "4.00",
+            "grade": "DECISION",
+            "lecturer": "4.00 4.00 Mykel Kochenderfer"
+          },
+          {
+            "subject": "ENGLISH",
+            "number": "90Q",
+            "type": "ISS",
+            "title": "SPORTS WRITING",
+            "units_attempted": "3.00",
+            "units_earned": "3.00",
+            "grade": "A",
+            "lecturer": "John Evans"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter",
+        "year": "2021-2022",
+        "courses": [
+          {
+            "subject": "CS",
+            "number": "182W",
+            "type": "LEC",
+            "title": "ETHICS, PUBLIC POLICY, AND CHANGE (WIM)",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "TECHNOLOGICAL",
+            "lecturer": "Jeremy Weinstein; Mehran Sahami"
+          },
+          {
+            "subject": "ENGR",
+            "number": "40M",
+            "type": "LEC",
+            "title": "AN INTRO TO MAKING: WHAT IS",
+            "units_attempted": "5.00",
+            "units_earned": "5.00",
+            "grade": "EE",
+            "lecturer": "Mark Horowitz"
+          },
+          {
+            "subject": "MS&E",
+            "number": "111",
+            "type": "LEC",
+            "title": "INTRODUCTION TO OPTIMIZATION",
+            "units_attempted": "4.00",
+            "units_earned": "4.00",
+            "grade": "Ashish",
+            "lecturer": "Goel"
+          },
+          {
+            "subject": "PHYSICS",
+            "number": "43",
+            "type": "LEC",
+            "title": "ELECTRICITY AND MAGNETISM",
+            "units_attempted": "4.00",
+            "units_earned": "0.0",
+            "grade": "Chaya",
+            "lecturer": "Nanavati; Young Lee"
+          }
+        ]
+      }
+    ]
+  }
+}

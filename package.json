@@ -1,0 +1,61 @@
+{
+  "hompage": "https://stanfordcs194.github.io/Team22-Spring22",
+  "name": "salvis-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@headlessui/react": "^1.6.1",
+    "@mui/material": "^5.8.2",
+    "@mui/x-data-grid": "^5.12.0",
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.27.2",
+    "chart.js": "^3.7.1",
+    "framer-motion": "^6.3.3",
+    "hookrouter": "^1.2.5",
+    "mui": "^0.0.1",
+    "react": "^18.1.0",
+    "react-chartjs-2": "^4.1.0",
+    "react-dom": "^18.1.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-tsparticles": "^2.0.6",
+    "recharts": "^2.1.9",
+    "tslib": "^2.4.0",
+    "tsparticles": "^2.0.6",
+    "tsparticles-engine": "^2.0.6",
+    "url": "^0.11.0",
+    "use-fit-text": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "gh-pages": "^3.2.3",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
+}

@@ -1,0 +1,432 @@
+{
+    "quarters": [
+        {
+            "quarter": "Autumn",
+            "year": "2019-2020",
+            "courses": [
+                {
+                    "subject": "CEE",
+                    "number": "63",
+                    "course_code": "CEE 63",
+                    "type": "LEC",
+                    "title": "WEATHER AND STORMS",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Mark Jacobson"
+                },
+                {
+                    "subject": "CS",
+                    "number": "106B",
+                    "course_code": "CS 106B",
+                    "type": "LEC",
+                    "title": "PROGRAMMING ABSTRACTIONS",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "A",
+                    "lecturer": "Cynthia Lee"
+                },
+                {
+                    "subject": "ENGR",
+                    "number": "40M",
+                    "course_code": "ENGR 40M",
+                    "type": "LEC",
+                    "title": "AN INTRO TO MAKING: WHAT IS EE",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "A-",
+                    "lecturer": "Mark Horowitz"
+                },
+                {
+                    "subject": "FRENLANG",
+                    "number": "3",
+                    "course_code": "FRENLANG 3",
+                    "type": "LNG",
+                    "title": "FIRST-YEAR FRENCH, THIRD QUARTER",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "CR",
+                    "lecturer": "Maria Comsa"
+                }
+            ]
+        },
+        {
+            "quarter": "Winter",
+            "year": "2019-2020",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "103",
+                    "course_code": "CS 103",
+                    "type": "LEC",
+                    "title": "MATHEMATICAL FOUNDATIONS OF COMPUTING",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "A",
+                    "lecturer": "Cynthia Lee"
+                },
+                {
+                    "subject": "CS",
+                    "number": "107",
+                    "course_code": "CS 107",
+                    "type": "LEC",
+                    "title": "COMPUTER ORGANIZATION AND SYSTEMS",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "A-",
+                    "lecturer": "Jerry Cain; Lisa Yan"
+                },
+                {
+                    "subject": "ENGLISH",
+                    "number": "15Q",
+                    "course_code": "ENGLISH 15Q",
+                    "type": "ISS",
+                    "title": "FAMILY TREES: THE INTERGENERATIONAL NOVEL",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Austin Smith"
+                },
+                {
+                    "subject": "PWR",
+                    "number": "1SMC",
+                    "course_code": "PWR 1SMC",
+                    "type": "SEM",
+                    "title": "WRITING & RHETORIC 1: BEYOND THE BOUNDARY: THE RHETORIC\n OF MAPS, BORDERS, AND\n NETWORKS",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "A",
+                    "lecturer": "Sangeeta Mediratta"
+                }
+            ]
+        },
+        {
+            "quarter": "Spring",
+            "year": "2019-2020",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "109",
+                    "course_code": "CS 109",
+                    "type": "LEC",
+                    "title": "INTRODUCTION TO PROBABILITY FOR COMPUTER SCIENTISTS",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "S",
+                    "lecturer": "Lisa Yan"
+                },
+                {
+                    "subject": "CS",
+                    "number": "110",
+                    "course_code": "CS 110",
+                    "type": "LEC",
+                    "title": "PRINCIPLES OF COMPUTER SYSTEMS",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "S",
+                    "lecturer": "Jerry Cain"
+                },
+                {
+                    "subject": "CS",
+                    "number": "231N",
+                    "course_code": "CS 231N",
+                    "type": "LEC",
+                    "title": "CONVOLUTIONAL NEURAL NETWORKS FOR VISUAL\n RECOGNITION",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "S",
+                    "lecturer": "Danfei Xu; Fei-Fei Li; Ranjay Krishna"
+                },
+                {
+                    "subject": "THINK",
+                    "number": "64",
+                    "course_code": "THINK 64",
+                    "type": "DIS",
+                    "title": "HEALING, ILLNESS, STORIES",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "S",
+                    "lecturer": "Emily Rials"
+                }
+            ]
+        },
+        {
+            "quarter": "Autumn",
+            "year": "2020-2021",
+            "courses": [
+                {
+                    "subject": "INTLPOL",
+                    "number": "268",
+                    "course_code": "INTLPOL 268",
+                    "type": "LEC",
+                    "title": "HACK LAB",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Alex Stamos; Riana Pfefferkorn"
+                }
+            ]
+        },
+        {
+            "quarter": "Winter",
+            "year": "2020-2021",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "140",
+                    "course_code": "CS 140",
+                    "type": "LEC",
+                    "title": "OPERATING SYSTEMS AND SYSTEMS PROGRAMMING",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "CR",
+                    "lecturer": "David Mazieres"
+                },
+                {
+                    "subject": "CS",
+                    "number": "152",
+                    "course_code": "CS 152",
+                    "type": "LEC",
+                    "title": "TRUST AND SAFETY ENGINEERING",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Alex Stamos"
+                },
+                {
+                    "subject": "CS",
+                    "number": "161",
+                    "course_code": "CS 161",
+                    "type": "LEC",
+                    "title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "CR",
+                    "lecturer": "Moses Charikar; Nima Ahmadipouranari"
+                },
+                {
+                    "subject": "ENGLISH",
+                    "number": "9CE",
+                    "course_code": "ENGLISH 9CE",
+                    "type": "WKS",
+                    "title": "CREATIVE EXPRESSION IN WRITING",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Molly Antopol"
+                },
+                {
+                    "subject": "HISTORY",
+                    "number": "51Q",
+                    "course_code": "HISTORY 51Q",
+                    "type": "ISS",
+                    "title": "AMERICAN GREED: FROM GOLD RUSH TO SILICON VALLEY",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "CR",
+                    "lecturer": "Nicole Martin"
+                }
+            ]
+        },
+        {
+            "quarter": "Spring",
+            "year": "2020-2021",
+            "courses": [
+                {
+                    "subject": "ANTHRO",
+                    "number": "30N",
+                    "course_code": "ANTHRO 30N",
+                    "type": "ISF",
+                    "title": "DOES SCIENCE HAVE CULTURE?",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "CR",
+                    "lecturer": "Duana Fullwiley"
+                },
+                {
+                    "subject": "CS",
+                    "number": "142",
+                    "course_code": "CS 142",
+                    "type": "LEC",
+                    "title": "WEB APPLICATIONS",
+                    "units_attempted": "3.00",
+                    "units_earned": "0.00",
+                    "grade": "W",
+                    "lecturer": "05/21/2021"
+                },
+                {
+                    "subject": "CS",
+                    "number": "155",
+                    "course_code": "CS 155",
+                    "type": "LEC",
+                    "title": "COMPUTER AND NETWORK SECURITY",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A-",
+                    "lecturer": "Dan Boneh; Zakir Durumeric"
+                },
+                {
+                    "subject": "PWR",
+                    "number": "2EI",
+                    "course_code": "PWR 2EI",
+                    "type": "SEM",
+                    "title": "WRITING & RHETORIC 2: RHETORICS OF COPYING,\n MEMEING, MODDING AND PIRACY",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "CR",
+                    "lecturer": "Eldon Pei"
+                }
+            ]
+        },
+        {
+            "quarter": "Autumn",
+            "year": "2021-2022",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "124",
+                    "course_code": "CS 124",
+                    "type": "LEC",
+                    "title": "FROM LANGUAGES TO INFORMATION",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "A",
+                    "lecturer": "Dan Jurafsky"
+                },
+                {
+                    "subject": "CS",
+                    "number": "144",
+                    "course_code": "CS 144",
+                    "type": "LEC",
+                    "title": "INTRODUCTION TO COMPUTER NETWORKING",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "A+",
+                    "lecturer": "Keith Winstein"
+                },
+                {
+                    "subject": "CS",
+                    "number": "253",
+                    "course_code": "CS 253",
+                    "type": "LEC",
+                    "title": "WEB SECURITY",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A",
+                    "lecturer": "Feross Aboukhadijeh"
+                },
+                {
+                    "subject": "HISTORY",
+                    "number": "42S",
+                    "course_code": "HISTORY 42S",
+                    "type": "COL",
+                    "title": "CANNIBALISM IN EARLY MODERN EUROPE: THE ULTIMATE TABOO\n IN HISTORICAL CONTEXT",
+                    "units_attempted": "5.00",
+                    "units_earned": "5.00",
+                    "grade": "A-",
+                    "lecturer": "Amanda Coate"
+                }
+            ]
+        },
+        {
+            "quarter": "Winter",
+            "year": "2021-2022",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "108",
+                    "course_code": "CS 108",
+                    "type": "LEC",
+                    "title": "OBJECT-ORIENTED SYSTEMS DESIGN",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "A+",
+                    "lecturer": "Patrick Young"
+                },
+                {
+                    "subject": "CS",
+                    "number": "142",
+                    "course_code": "CS 142",
+                    "type": "LEC",
+                    "title": "WEB APPLICATIONS",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A-",
+                    "lecturer": "Mendel Rosenblum"
+                },
+                {
+                    "subject": "CS",
+                    "number": "255",
+                    "course_code": "CS 255",
+                    "type": "LEC",
+                    "title": "INTRODUCTION TO CRYPTOGRAPHY",
+                    "units_attempted": "3.00",
+                    "units_earned": "3.00",
+                    "grade": "A-",
+                    "lecturer": "Dan Boneh"
+                },
+                {
+                    "subject": "EE",
+                    "number": "108",
+                    "course_code": "EE 108",
+                    "type": "LEC",
+                    "title": "DIGITAL SYSTEM DESIGN",
+                    "units_attempted": "4.00",
+                    "units_earned": "4.00",
+                    "grade": "A",
+                    "lecturer": "Subhasish Mitra"
+                }
+            ]
+        },
+        {
+            "quarter": "Spring",
+            "year": "2021-2022",
+            "courses": [
+                {
+                    "subject": "CS",
+                    "number": "143",
+                    "course_code": "CS 143",
+                    "type": "LEC",
+                    "title": "COMPILERS",
+                    "units_attempted": "4.00",
+                    "units_earned": "0.00\n",
+                    "grade": "Fredrik",
+                    "lecturer": "Kjoelstad"
+                },
+                {
+                    "subject": "CS",
+                    "number": "151",
+                    "course_code": "CS 151",
+                    "type": "LEC",
+                    "title": "LOGIC PROGRAMMING",
+                    "units_attempted": "3.00",
+                    "units_earned": "0.00\n",
+                    "grade": "Michael",
+                    "lecturer": "Genesereth"
+                },
+                {
+                    "subject": "CS",
+                    "number": "194W",
+                    "course_code": "CS 194W",
+                    "type": "LEC",
+                    "title": "SOFTWARE PROJECT (WIM)",
+                    "units_attempted": "3.00",
+                    "units_earned": "0.00\n",
+                    "grade": "Jay",
+                    "lecturer": "Borenstein"
+                },
+                {
+                    "subject": "POLISCI",
+                    "number": "131L",
+                    "course_code": "POLISCI 131L",
+                    "type": "LEC",
+                    "title": "MODERN POLITICAL THOUGHT: TO MARX AND MILL",
+                    "units_attempted": "5.00",
+                    "units_earned": "0.00\n",
+                    "grade": "MACHIAVELLI",
+                    "lecturer": "Alison McQueen"
+                }
+            ]
+        }
+    ]
+}

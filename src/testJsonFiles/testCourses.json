@@ -1,0 +1,44 @@
+{
+    "CS 221": {
+        "classNum": 8491,
+        "shortDescription": "Artificial Intelligence: Principles and Techniques",
+        "fullDescription": "Artificial intelligence (AI) has had a huge impact in many areas, including medical diagnosis, speech recognition, robotics, web search, advertising, and scheduling. This course focuses on the foundational concepts that drive these applications. In short, AI is the mathematics of making good decisions given incomplete information (hence the need for probability) and limited computation (hence the need for algorithms). Specific topics include search, constraint satisfaction, game playing,n Markov decision processes, graphical models, machine learning, and logic. Prerequisites: CS 103 or CS 103B/X, CS 106B or CS 106X, CS 109, and CS 161 (algorithms, probability, and object-oriented programming in Python). We highly recommend comfort with these concepts before taking the course, as we will be building on them with little review.",
+        "units": 4,
+        "ways": []
+    },
+    "German 101": {
+        "classNum": 29369,
+        "shortDescription": "Germany in 5 Words",
+        "fullDescription": "This course explores German history, culture and politics by tracing five (largely untranslatable) words and exploring the debates they have engendered in Germany over the past 200 years. This course is intended as preparation for students wishing to spend a quarter at the Bing Overseas Studies campus in Berlin, but is open to everyone. Taught in English.",
+        "units": 3,
+        "ways": [
+            "AQII",
+            "ED"
+        ]
+    },
+    "CS 194": {
+        "classNum": 3553,
+        "shortDescription": "Software Project",
+        "fullDescription": "Design, specification, coding, and testing of a significant team programming project under faculty supervision. Documentation includes capture of project rationale, design and discussion of key performance indicators, a weekly progress log and a software architecture diagram. Public demonstration of the project at the end of the quarter. Preference given to seniors. May be repeated for credit. Prerequisites: CS109 and CS161.",
+        "units": 3,
+        "ways": []
+    },
+    "CS 106A": {
+        "classNum": 12932,
+        "shortDescription": "Programming Methodology",
+        "fullDescription": "Introduction to the engineering of computer applications emphasizing modern software engineering principles: program design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of respective languages. Uses the Python programming language. No prior programming experience required.",
+        "units": 5,
+        "ways": [
+            "FR"
+        ]
+    },
+    "CS 106B": {
+        "classNum": 15780,
+        "shortDescription": "Programming Abstractions",
+        "fullDescription": "Abstraction and its relation to programming. Software engineering principles of data abstraction and modularity. Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis. Uses the programming language C++ covering its basic facilities. Prerequisite: 106A or equivalent.",
+        "units": 5,
+        "ways": [
+            "FR"
+        ]
+    }
+}

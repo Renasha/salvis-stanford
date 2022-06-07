@@ -1,0 +1,28 @@
+{
+    "waysRequirements": {
+        "FR": {
+            "unitsMin": 3
+        },
+        "AQR": {
+            "unitsMin": 3
+        },
+        "ER": {
+            "unitsMin": 3
+        },
+        "SMA": {
+            "unitsMin": 6
+        },
+        "CE": {
+            "unitsMin": 3
+        },
+        "ED": {
+            "unitsMin": 3
+        },
+        "SI": {
+            "unitsMin": 6
+        },
+        "AII": {
+            "unitsMin": 6
+        }
+    }
+}

@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .sidebar-icon {
+      @apply relative flex items-center justify-center 
+        h-12 w-12 mt-2 mb-2 mx-auto  
+        hover:rounded-xl rounded-3xl
+        transition-all duration-150 ease-linear
+        cursor-pointer shadow-lg
+    }
+
+    .sidebar-tooltip {
+      @apply absolute w-auto p-2 m-2 min-w-max left-14 rounded-lg shadow-lg
+      text-white bg-gray-900 
+      text-xs font-bold 
+      transition-all duration-150 scale-0 origin-left z-50;
+    }
+  
+    .sidebar-hr {
+      @apply bg-gray-200 
+      border border-gray-200 rounded-full
+      mx-2;
+    }
+
+    .profile-modal-input {
+      @apply focus:ring-green-300 border-gray-300 focus:border-green-300 
+      border-2 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white 
+      rounded-lg text-sm focus:outline-none focus:ring-2 w-full
+    }
+
+    .login-signup-input {
+      @apply focus:ring-green-300 border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded-lg text-sm shadow focus:outline-none focus:ring w-full
+    }
+
+    .hover-transition {
+      @apply transition-all ease-linear duration-150
+    }
+}

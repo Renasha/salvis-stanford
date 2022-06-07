@@ -1,0 +1,426 @@
+{
+	"requirements": [
+		{
+			"title": "mathematics",
+			"min-units": "26",
+			"sub-requirements": [
+				{
+					"title": "20 series",
+					"min-units": "10",
+					"possible-courses": [
+						"math 19",
+						"math 20",
+						"math 21"
+					]
+				},
+				{
+					"title": "cs math",
+					"required-courses": [
+						"cs 103",
+						"cs 109"
+					]
+				},
+				{
+					"title": "math electives",
+					"min-courses": "2",
+					"possible-courses": [
+						"math 52",
+						"math 53",
+						"math 104",
+						"math 107",
+						"math 108",
+						"math 109",
+						"math 110",
+						"math 113",
+						"cs 157",
+						"cs 205l",
+						"phil 151",
+						"cme 100",
+						"cme 102",
+						"cme 104",
+						"engr 108"
+					]
+				}
+			]
+		},
+		{
+			"title": "science",
+			"min-units": "11",
+			"sub-requirements": [
+				{
+					"title": "mechanics",
+					"min-courses": "1",
+					"possible-courses": [
+						"phys 21",
+						"phys 41",
+						"phys 61"
+					]
+				},
+				{
+					"title": "electricity and magnetism",
+					"min-courses": "1",
+					"possible-courses": [
+						"phys 23",
+						"phys 43",
+						"phys 63"
+					]
+				},
+				{
+					"title": "science electives",
+					"min-courses": "1",
+					"possible-courses": [
+						"bio 150",
+						"bio 30",
+						"bio 45",
+						"bio 46",
+						"bio 47",
+						"bio 81",
+						"bio 82",
+						"bio 83",
+						"bio 84",
+						"bio 85",
+						"bio 86",
+						"cee 63",
+						"cee 70",
+						"chem 31a",
+						"chem 31b",
+						"chem 31x",
+						"chem 33",
+						"earthsys 10",
+						"geo 1",
+						"phys 21",
+						"phys 22",
+						"phys 23",
+						"phys 24",
+						"phys 25",
+						"phys 26",
+						"phys 41",
+						"phys 41e",
+						"phys 42",
+						"phys 43",
+						"phys 44",
+						"phys 45",
+						"phys 46",
+						"phys 61",
+						"phys 62",
+						"phys 63",
+						"phys 64",
+						"phys 65",
+						"phys 67",
+						"psych 30"
+					]
+				}
+			]
+		},
+		{
+			"title": "technology in society",
+			"min-courses": "1",
+			"possible-courses": [
+				"aa 252",
+				"archlgy 151",
+				"bioe 131",
+				"classics 168",
+				"comm 120w",
+				"comm 166",
+				"cs 181",
+				"cs 181w",
+				"cs 182",
+				"cs 182w",
+				"engr 117",
+				"engr 131",
+				"engr 145",
+				"engr 148",
+				"engr 248",
+				"humbio 174",
+				"me 267",
+				"ms&e 193",
+				"polisci 114s"
+			]
+		},
+		{
+			"title": "engineering fundamentals",
+			"min-units": "10",
+			"sub-requirements": [
+				{
+					"title": "cs 106b",
+					"min-courses": "1",
+					"possible-courses": [
+						"cs 106b",
+						"cs 106x"
+					]
+				},
+				{
+					"title": "engr 40",
+					"min-courses": "1",
+					"possible-courses": [
+						"engr 40a",
+						"engr 40b",
+						"engr 40m"
+					]
+				}
+			]
+		},
+		{
+			"title": "core",
+			"sub-requirements": [
+				{
+					"title": "cs 107",
+					"min-courses": "1",
+					"possible-courses": [
+						"cs 107",
+						"cs 107e"
+					]
+				},
+				{
+					"title": "systems",
+					"min-courses": "1",
+					"possible-courses": [
+						"cs 110",
+						"cs 111"
+					]
+				},
+				{
+					"title": "cs 161",
+					"required-courses": [
+						"cs 161"
+					]
+				}
+			]
+		},
+		{
+			"title": "depth track",
+			"min-units": "25",
+			"sub-requirements": [
+				{
+					"title": "track a",
+					"required-courses": [
+						"cs 221"
+					]
+				},
+				{
+					"title": "track b",
+					"min-areas": "2",
+					"min-courses": "2",
+					"areas": [
+						{
+							"title": "ai methods",
+							"area-courses": [
+								"cs 228",
+								"cs 229",
+								"cs 234",
+								"cs 238"
+							]
+						},
+						{
+							"title": "natural language processing",
+							"area-courses": [
+								"cs 124",
+								"cs 224n",
+								"cs 224s",
+								"cs 224u"
+							]
+						},
+						{
+							"title": "vision",
+							"area-courses": [
+								"cs 131",
+								"cs 231a",
+								"cs 231n"
+							]
+						},
+						{
+							"title": "robotics",
+							"area-courses": [
+								"cs 223a",
+								"cs 237a"
+							]
+						}
+					]
+				},
+				{
+					"title": "track c",
+					"min-courses": "1",
+					"possible-courses": [
+						"cs 124",
+						"cs 131",
+						"cs 151",
+						"cs 157",
+						"cs 205l",
+						"cs 223a",
+						"cs 224n",
+						"cs 224s",
+						"cs 224u",
+						"cs 224w",
+						"cs 227b",
+						"cs 228",
+						"cs 229",
+						"cs 230",
+						"cs 231a",
+						"cs 231n",
+						"cs 234",
+						"cs 235",
+						"cs 236",
+						"cs 237a",
+						"cs 237b",
+						"cs 238",
+						"cs 276",
+						"cs 279",
+						"cs 327a",
+						"cs 329",
+						"cs 338",
+						"cs 371",
+						"cs 379",
+						"engr 205",
+						"ms&e 251",
+						"ms&e 351",
+						"stats 315a",
+						"stats 315b"
+					]
+				},
+				{
+					"title": "depth electives",
+					"min-courses": "3",
+					"possible-courses": [
+						"cme 108",
+						"cs 108",
+						"cs 124",
+						"cs 131",
+						"cs 140",
+						"cs 140e",
+						"cs 142",
+						"cs 143",
+						"cs 144",
+						"cs 145",
+						"cs 146",
+						"cs 147",
+						"cs 148",
+						"cs 149",
+						"cs 151",
+						"cs 154",
+						"cs 155",
+						"cs 157",
+						"cs 163",
+						"cs 166",
+						"cs 168",
+						"cs 190",
+						"cs 195",
+						"cs 197",
+						"cs 205l",
+						"cs 210a",
+						"cs 217",
+						"cs 223a",
+						"cs 224n",
+						"cs 224s",
+						"cs 224u",
+						"cs 224w",
+						"cs 225a",
+						"cs 227b",
+						"cs 228",
+						"cs 229",
+						"cs 229m",
+						"cs 229t",
+						"cs 230",
+						"cs 231a",
+						"cs 231n",
+						"cs 232",
+						"cs 233",
+						"cs 234",
+						"cs 235",
+						"cs 236",
+						"cs 237a",
+						"cs 237b",
+						"cs 238",
+						"cs 240",
+						"cs 240lx",
+						"cs 242",
+						"cs 243",
+						"cs 244",
+						"cs 244b",
+						"cs 245",
+						"cs 246",
+						"cs 247",
+						"cs 248",
+						"cs 251",
+						"cs 252",
+						"cs 254",
+						"cs 254b",
+						"cs 255",
+						"cs 257",
+						"cs 261",
+						"cs 263",
+						"cs 265",
+						"cs 269i",
+						"cs 269q",
+						"cs 270",
+						"cs 271",
+						"cs 272",
+						"cs 273a",
+						"cs 273b",
+						"cs 274",
+						"cs 275",
+						"cs 276",
+						"cs 278",
+						"cs 279",
+						"cs 326",
+						"cs 327a",
+						"cs 329",
+						"cs 330",
+						"cs 334a",
+						"cs 336",
+						"cs 338",
+						"cs 348a",
+						"cs 348b",
+						"cs 348c",
+						"cs 348e",
+						"cs 348i",
+						"cs 348k",
+						"cs 351",
+						"cs 352",
+						"cs 353",
+						"cs 369l",
+						"cs 371",
+						"cs 379",
+						"cs 398",
+						"cs 428",
+						"econ 286",
+						"ee 180",
+						"ee 263",
+						"ee 278",
+						"ee 282",
+						"ee 364b",
+						"engr 205",
+						"ms&e 251",
+						"ms&e 252",
+						"ms&e 351",
+						"ms&e 352",
+						"ms&e 355",
+						"phil 151",
+						"phil 152",
+						"psych 204a",
+						"psych 204b",
+						"psych 209",
+						"stats 200",
+						"stats 202",
+						"stats 205",
+						"stats 315a",
+						"stats 315b"
+					]
+				}
+			]
+		},
+		{
+			"title": "senior project",
+			"min-units": "3",
+			"min-courses": "1",
+			"possible-courses": [
+				"cs 191",
+				"cs 191w",
+				"cs 194",
+				"cs 194h",
+				"cs 194w",
+				"cs 210b",
+				"cs 294w"
+			]
+		}
+	]
+}
