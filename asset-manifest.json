@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ba138c5.css",
+    "main.js": "/static/js/main.fb5e493c.js",
+    "static/js/937.f7d432e7.chunk.js": "/static/js/937.f7d432e7.chunk.js",
+    "static/media/profile.jpeg": "/static/media/profile.f5415c0e38d7ca243163.jpeg",
+    "static/media/salvis-logo.png": "/static/media/salvis-logo.eb5723bfe5035f175598.png",
+    "index.html": "/index.html",
+    "main.0ba138c5.css.map": "/static/css/main.0ba138c5.css.map",
+    "main.fb5e493c.js.map": "/static/js/main.fb5e493c.js.map",
+    "937.f7d432e7.chunk.js.map": "/static/js/937.f7d432e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba138c5.css",
+    "static/js/main.fb5e493c.js"
+  ]
+}
